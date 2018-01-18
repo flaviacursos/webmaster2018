@@ -1,0 +1,14 @@
+{
+  "name": "clase_39",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compilar_01": "tsc src/01_tipos.ts --outFile dist/01_tipos.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^2.6.2"
+  }
+}
