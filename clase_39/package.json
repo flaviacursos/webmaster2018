@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "compilar_01": "tsc src/01_tipos.ts --outFile dist/01_tipos.js"
+    "compilar_01": "tsc src/01_tipos.ts --outFile dist/01_tipos.js",
+    "compilar_02": "tsc src/02_objetos.ts --outFile dist/02_objetos.js"
   },
   "author": "",
   "license": "ISC",
